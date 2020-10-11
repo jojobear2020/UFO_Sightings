@@ -16,18 +16,18 @@ filter page/given dataset based on the user entry. The dataset we used is a samp
 
 Initially we created a dynamic table that was working as intended; however, there was only one option to sort the data – by the date. 
 
-To provide a more in-depth analysis of UFO sightings we updated filter search to allow users to filter for multiple criteria at the same time. In addition to the date we also added table filters for the city, state, country, and shape. 
+* To provide a more in-depth analysis of UFO sightings we updated filter search to allow users to filter for multiple criteria at the same time. In addition to the date we also added table filters for the city, state, country, and shape. 
 
 
 ![filter_search_options](https://github.com/jojobear2020/UFO_Sightings/blob/main/static/images/filter_search_options.PNG)
 
 
-As a hint how to enter information, we provided placeholders in each category
+* As a hint how to enter information, we provided placeholders in each category
 
 `input type="text" placeholder="roswell" id="city" class="form-control"`
 
 
-Once we enter search request in at least one field and click `enter`, we can see filtered results by that criteria
+* Once we enter search request in at least one field and click `enter`, we can see filtered results by that criteria
 
 ![search_by_state_or](https://github.com/jojobear2020/UFO_Sightings/blob/main/static/images/filter_search_state_or.PNG)
 
