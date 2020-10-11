@@ -9,7 +9,7 @@ https://jojobear2020.github.io/UFO_Sightings/
 ## Project Overview ##
 
 The purpose of the project was to demonstrate the use of JavaScript to create an interactive website that would allow to 
-filter page/given dataset based on the user entry. The dataset we used is a sample set of UFO sightings in the U.S. for the first two weeks of January 2010J.
+filter page/given dataset based on the user entry. The dataset we used is a sample set of UFO sightings in the U.S. for the first two weeks of January 2010.
 
 
 ## Results ##
