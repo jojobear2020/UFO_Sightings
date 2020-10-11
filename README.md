@@ -24,7 +24,7 @@ To provide a more in-depth analysis of UFO sightings we updated filter search to
 
 As a hint how to enter information, we provided placeholders in each category
 
-'<input type="text" placeholder="roswell" id="city" class="form-control"/>'
+'input type="text" placeholder="roswell" id="city" class="form-control"'
 
 
 Once we enter search request in at least one field and click 'enter', we can see filtered results by that criteria
