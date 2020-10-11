@@ -39,7 +39,7 @@ Searching the data using interactive website is way more fun and definitely more
 ## Recommendations ##
 
 1.	Add option to download search results to xlsx, scv or pdf file. 
-2.	Add back "Search" button as making users press `enter` may be a bit confusing at times. Having the actual "Search button" would make our website easier to use.
+2.	Add back "Search" button as making users press `enter` may be a bit confusing at times. Having the actual "Search" button would make our website easier to use.
 3.  Add "Reset" button in addition to "Search".
 3.	Add some visual or audio effects. I added audio control panel to add some fun aspect, but having videos or audio sounds when we press a button, would be a nice touch.
 4.	Having more data than just two weeks (maybe a year?).
