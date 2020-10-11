@@ -19,7 +19,7 @@ Initially we created a dynamic table that was working as intended; however, ther
 * To provide a more in-depth analysis of UFO sightings we updated filter search to allow users to filter for multiple criteria at the same time. In addition to the date we also added table filters for the city, state, country, and shape. 
 
 
-![filter_search_options](https://github.com/jojobear2020/UFO_Sightings/blob/main/static/images/filter_search_options.PNG)
+  ![filter_search_options](https://github.com/jojobear2020/UFO_Sightings/blob/main/static/images/filter_search_options.PNG)
 
 
 * As a hint how to enter information, we provided placeholders in each category
@@ -29,7 +29,7 @@ Initially we created a dynamic table that was working as intended; however, ther
 
 * Once we enter search request in at least one field and click `enter`, we can see filtered results by that criteria
 
-![search_by_state_or](https://github.com/jojobear2020/UFO_Sightings/blob/main/static/images/filter_search_state_or.PNG)
+  ![search_by_state_or](https://github.com/jojobear2020/UFO_Sightings/blob/main/static/images/filter_search_state_or.PNG)
 
 
 ## Summary ##
@@ -39,6 +39,6 @@ Searching the data using interactive website is way more fun and most definitely
 ## Recommendations ##
 
 1.	Adding ability to download search results to xlsx, scv or pdf file. 
-2.	Add back Search button as making users press the ‘enter’ button may be a bit confusing to some. Having actual Search button makes website easier to use.
+2.	Add back Search button as making users press the `enter` button may be a bit confusing to some. Having actual Search button makes website easier to use.
 3.	Adding some visual or audio effects. I added audio control panel to add some fun aspect, but having some videos or audio sounds when we press a button, would be a nice touch.
 4.	Having more data than just two weeks (maybe a year)
