@@ -1,6 +1,6 @@
 # UFO_Sightings
 
-To access actual site, please click on the link below:
+To access the actual site, please click on the link below:
 
 https://jojobear2020.github.io/UFO_Sightings/
 
