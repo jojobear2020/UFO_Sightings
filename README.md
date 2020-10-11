@@ -24,11 +24,11 @@ To provide a more in-depth analysis of UFO sightings we updated filter search to
 
 As a hint how to enter information, we provided placeholders in each category
 
-‘<label for="city">Enter a City</label>
- <input type="text" placeholder="roswell" id="city" class="form-control"/>’
+'<label for="city">Enter a City</label>
+ <input type="text" placeholder="roswell" id="city" class="form-control"/>'
 
 
-Once we enter search request in at least one field and click ‘enter’, we can see filtered results by that criteria
+Once we enter search request in at least one field and click 'enter', we can see filtered results by that criteria
 
 ![search_by_state_or](https://github.com/jojobear2020/UFO_Sightings/blob/main/static/images/filter_search_state_or.PNG)
 
